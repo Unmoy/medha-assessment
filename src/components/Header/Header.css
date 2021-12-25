@@ -1,0 +1,46 @@
+.mui_tab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* .css-sghohy-MuiButtonBase-root-MuiButton-root {
+  color: red;
+      font-family: "Roboto","Helvetica","Arial",sans-serif;
+} */
+.custom_post_button {
+  background: transparent;
+  border: 1px solid #14967b;
+  border-radius: 6px;
+  color: #14967b;
+  height: 36px;
+  width: 96px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.custom_signin_button {
+  cursor: pointer;
+  background-color: #14967b;
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  height: 36px;
+  width: 78px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+}
+.tab_label {
+  color: #14967b;
+}
+.disable_tabs {
+  color: #afafaf;
+}
+.tab_logo {
+  display: block;
+  margin: 0 auto 5px auto;
+}
